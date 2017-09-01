@@ -1,0 +1,19 @@
+{
+  "name": "todo-app-php",
+  "version": "1.0.0",
+  "description": "Another todo-app make with `backbone.js` and pure PHP.",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "jquery": "^3.2.1",
+    "moment": "^2.18.1",
+    "sequelize-models-charger": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
